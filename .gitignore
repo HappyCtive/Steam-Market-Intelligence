@@ -1,0 +1,11 @@
+# Raw datasets
+*.csv
+*.zip
+raw-data/
+
+# Excel temporary files
+~$*.xlsx
+
+# MySQL exports and local backups
+*.sql.bak
+backups/
